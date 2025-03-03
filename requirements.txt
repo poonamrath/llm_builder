@@ -1,0 +1,17 @@
+pandas
+numpy==1.24.1
+jupyter
+scikit-learn
+matplotlib
+plotly
+transformers
+accelerate
+requests
+tiktoken
+torch
+torchaudio
+torchvision
+sentence-transformers
+tensorflow>=2.15.0
+tqdm>=4.66
+
